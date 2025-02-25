@@ -50,8 +50,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#F5F7FA',
   },
   perfil: {
-    width: 200, // Ajusta el ancho del rectángulo
-    height: 200, // Ajusta la altura del rectángulo
+    width: 150, // Ajusta el ancho del rectángulo
+    height: 150, // Ajusta la altura del rectángulo
     marginBottom: 20,//Margen inferior para no estar pegados
     borderRadius: 10, // Redondea los bordes de la imagen
     borderWidth: 2, // Añade un borde a la imagen
